@@ -12,7 +12,8 @@ This project is intended for personal learning/exploration of Golang. This will 
 - [ ] Feature: [RESTful TodoMVC Service Application](https://github.com/cerebralideas/todomvc-server-rest-typescript/blob/master/README.md) for complete parity in Golang
 - [ ] Tech: Add a light-weight framework to clean up and organize code
 - [ ] Feature: Add a super simple, non-persisted, in-memory CRUD for a collection of todos with no frameworks, external modules
-- [x] Feature: Build a single REST API endpoint for calling for a todo collection ([HEAD](https://github.com/cerebralideas/todomvc-server-graphql-go))
+- [x] Feature: Add remaining basic, naive CRUD operations with RESTful endpoints([HEAD](https://github.com/cerebralideas/todomvc-server-graphql-go))
+- [x] Feature: Build a single REST API endpoint for calling for a todo collection ([#e873c23](https://github.com/cerebralideas/todomvc-server-graphql-go/commit/e873c23f059e76fa080b0ef2283571a802cb7a63))
 
 ## Up and Running
 
